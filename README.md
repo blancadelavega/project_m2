@@ -90,6 +90,6 @@ These tables were transformed and connected to form a Star Schema, enabling effi
 │   ├── Suppliers_Table.csv
 │   └── Transport_Table.csv 
 ├── .gitignore          
-├── powerbi_dashboard.pbix     
+├── ProjectM2_PBIDashboard.pbix   
 └── README.md                 
 ```
