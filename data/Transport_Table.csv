@@ -1,0 +1,1001 @@
+TransportID,OrderID,Type,Capacity,AssignedTo,CurrentStatus
+TR0001,OR0001,Ship,3050.82,"Hall, Anderson and Weber",In Transit
+TR0002,OR0002,Rail Tanker,16108.89,Smith PLC,Delivered
+TR0003,OR0003,Pipeline,4812.2,Jones and Sons,Pending
+TR0004,OR0004,Tanker Truck,8216.47,Kidd-Tyler,Pending
+TR0005,OR0005,Rail Tanker,17079.7,Lewis-Roberts,Pending
+TR0006,OR0006,Rail Tanker,2529.55,Coleman-Ward,Delivered
+TR0007,OR0007,Ship,2182.67,Spence Ltd,In Transit
+TR0008,OR0008,Rail Tanker,17265.73,Williams-Cox,In Transit
+TR0009,OR0009,Ship,15723.5,Nguyen-Perry,In Transit
+TR0010,OR0010,Tanker Truck,7469.88,"Armstrong, Sharp and Hogan",In Transit
+TR0011,OR0011,Pipeline,17013.93,"Wells, Villa and Kim",Pending
+TR0012,OR0012,Ship,19812.76,"Rios, Rivera and King",Pending
+TR0013,OR0013,Pipeline,15711.93,Valdez-Mcgrath,In Transit
+TR0014,OR0014,Rail Tanker,1987.48,Contreras-Morrow,Pending
+TR0015,OR0015,Rail Tanker,9297.48,Rogers LLC,Delivered
+TR0016,OR0016,Ship,11854.69,"Jenkins, French and Montgomery",Pending
+TR0017,OR0017,Tanker Truck,17495.17,Dudley-Mcdonald,In Transit
+TR0018,OR0018,Rail Tanker,10190.73,Garcia PLC,In Transit
+TR0019,OR0019,Pipeline,14969.93,"Vasquez, Berry and Knox",Delivered
+TR0020,OR0020,Rail Tanker,2253.53,Alvarez-Hanson,Delivered
+TR0021,OR0021,Tanker Truck,5466.2,"Garcia, Lawrence and Clark",Pending
+TR0022,OR0022,Pipeline,19266.64,Perez LLC,Pending
+TR0023,OR0023,Tanker Truck,2773.14,"Sanchez, Sexton and Pearson",Delivered
+TR0024,OR0024,Rail Tanker,14607.88,"Pitts, Robbins and Shaw",Delivered
+TR0025,OR0025,Tanker Truck,12996.54,Hooper LLC,Delivered
+TR0026,OR0026,Rail Tanker,8281.46,Vasquez-Williams,Delivered
+TR0027,OR0027,Pipeline,3302.07,"Ortiz, Johnson and Stewart",In Transit
+TR0028,OR0028,Tanker Truck,10649.88,"Randall, Wu and Reynolds",In Transit
+TR0029,OR0029,Rail Tanker,1072.82,"Davis, Norris and Mcdowell",Pending
+TR0030,OR0030,Rail Tanker,9662.13,"Swanson, Hayes and Davies",Delivered
+TR0031,OR0031,Pipeline,15145.55,Smith-Mueller,In Transit
+TR0032,OR0032,Pipeline,4899.68,Moreno LLC,In Transit
+TR0033,OR0033,Rail Tanker,16992.58,Johnson Group,In Transit
+TR0034,OR0034,Ship,7982.67,Perry PLC,In Transit
+TR0035,OR0035,Rail Tanker,4038.34,"Franklin, Moore and Moore",Delivered
+TR0036,OR0036,Ship,14313.47,Ferguson-Salinas,Delivered
+TR0037,OR0037,Pipeline,8442.91,Hernandez Inc,Pending
+TR0038,OR0038,Rail Tanker,9776.15,Hughes Group,In Transit
+TR0039,OR0039,Pipeline,14235.16,"Taylor, Miller and Olson",In Transit
+TR0040,OR0040,Ship,16138.11,Novak-Martinez,In Transit
+TR0041,OR0041,Ship,7056.76,"Ryan, Taylor and Hale",In Transit
+TR0042,OR0042,Tanker Truck,18193.42,Williams Ltd,In Transit
+TR0043,OR0043,Pipeline,3665.75,"Ibarra, Henderson and Schmidt",Pending
+TR0044,OR0044,Pipeline,6394.32,"Schmidt, Pearson and Russell",Delivered
+TR0045,OR0045,Ship,19627.23,"Thompson, Gutierrez and Phillips",In Transit
+TR0046,OR0046,Pipeline,13614.1,Peterson Inc,Pending
+TR0047,OR0047,Pipeline,10715.31,"Gregory, Martinez and Gonzalez",Delivered
+TR0048,OR0048,Rail Tanker,9456.78,Brown-Hill,Pending
+TR0049,OR0049,Rail Tanker,8826.0,Saunders Inc,In Transit
+TR0050,OR0050,Pipeline,7429.32,"Henderson, Allen and Mills",Pending
+TR0051,OR0051,Tanker Truck,6743.33,Henson and Sons,Pending
+TR0052,OR0052,Ship,9316.84,Hamilton-Hernandez,Delivered
+TR0053,OR0053,Rail Tanker,6392.15,Garcia-Donovan,Pending
+TR0054,OR0054,Pipeline,18153.04,"Stone, Rivas and Grimes",Pending
+TR0055,OR0055,Ship,5092.67,"Turner, Lopez and Rios",In Transit
+TR0056,OR0056,Pipeline,10420.41,Welch Ltd,In Transit
+TR0057,OR0057,Pipeline,16682.02,Cooper Ltd,In Transit
+TR0058,OR0058,Rail Tanker,4595.79,"Hoover, Burns and Hale",Delivered
+TR0059,OR0059,Tanker Truck,18935.87,Smith-Parsons,In Transit
+TR0060,OR0060,Pipeline,14996.18,"Rodriguez, Price and Fritz",In Transit
+TR0061,OR0061,Tanker Truck,15736.05,Salinas-Morales,In Transit
+TR0062,OR0062,Rail Tanker,9840.17,Peters LLC,In Transit
+TR0063,OR0063,Ship,5592.7,Waters-Ryan,Delivered
+TR0064,OR0064,Pipeline,16886.92,Taylor-Daniels,Delivered
+TR0065,OR0065,Ship,3513.93,Watson-Bryant,Delivered
+TR0066,OR0066,Pipeline,11499.31,Guzman Inc,Pending
+TR0067,OR0067,Rail Tanker,12003.84,"Stevenson, Ponce and Scott",In Transit
+TR0068,OR0068,Ship,1206.07,Rogers-Cervantes,Pending
+TR0069,OR0069,Rail Tanker,18641.65,Lee Inc,In Transit
+TR0070,OR0070,Tanker Truck,8723.54,"Hughes, Wilson and Smith",Pending
+TR0071,OR0071,Ship,18266.67,"Noble, Jackson and Larson",Delivered
+TR0072,OR0072,Tanker Truck,3680.81,"Sullivan, Kramer and Banks",Pending
+TR0073,OR0073,Pipeline,15164.15,Sanders PLC,Delivered
+TR0074,OR0074,Pipeline,9684.43,"Kline, White and Jennings",In Transit
+TR0075,OR0075,Ship,9063.01,"George, Mora and Salinas",Pending
+TR0076,OR0076,Ship,2816.95,Bennett-Morris,Pending
+TR0077,OR0077,Rail Tanker,12066.4,"Caldwell, Christian and Smith",Pending
+TR0078,OR0078,Pipeline,12255.86,Dunn-Webb,Delivered
+TR0079,OR0079,Pipeline,5209.94,"Hill, Soto and Miller",In Transit
+TR0080,OR0080,Ship,10160.94,"Williams, Torres and Mullen",Pending
+TR0081,OR0081,Rail Tanker,16603.29,"Jackson, Reese and Doyle",Pending
+TR0082,OR0082,Ship,19424.48,Le Inc,Pending
+TR0083,OR0083,Tanker Truck,2673.02,Rose Group,In Transit
+TR0084,OR0084,Tanker Truck,13021.03,Blake Inc,Pending
+TR0085,OR0085,Rail Tanker,11092.36,Nelson-Baldwin,Pending
+TR0086,OR0086,Pipeline,19233.91,"Livingston, White and Juarez",Pending
+TR0087,OR0087,Rail Tanker,17296.71,"Holder, Johnson and Reyes",Pending
+TR0088,OR0088,Ship,12255.19,Gonzalez-Allen,Delivered
+TR0089,OR0089,Pipeline,14519.82,Meyer-Cruz,Delivered
+TR0090,OR0090,Pipeline,19516.18,"Moore, Smith and White",Pending
+TR0091,OR0091,Rail Tanker,1604.27,"Walker, Davis and Hutchinson",Delivered
+TR0092,OR0092,Ship,2218.0,Cain-Cortez,Delivered
+TR0093,OR0093,Rail Tanker,1986.79,"Hall, Goodwin and Faulkner",Delivered
+TR0094,OR0094,Pipeline,3563.95,"Johnson, Collins and Snyder",In Transit
+TR0095,OR0095,Ship,17780.59,Taylor-Rich,Pending
+TR0096,OR0096,Pipeline,10461.01,Hanson LLC,Delivered
+TR0097,OR0097,Ship,18484.57,Klein-Smith,Pending
+TR0098,OR0098,Rail Tanker,6442.3,"Macdonald, Robinson and Lane",Pending
+TR0099,OR0099,Ship,2981.54,Burns-Steele,Pending
+TR0100,OR0100,Tanker Truck,17184.67,Meyer-Hunter,Pending
+TR0101,OR0101,Tanker Truck,13829.57,Webster-Williams,Pending
+TR0102,OR0102,Pipeline,7538.14,Zamora-Lopez,In Transit
+TR0103,OR0103,Tanker Truck,14742.0,Yang-Bryant,Pending
+TR0104,OR0104,Tanker Truck,6200.69,Hinton PLC,In Transit
+TR0105,OR0105,Pipeline,10422.53,"Greer, Holmes and Weaver",Pending
+TR0106,OR0106,Pipeline,18815.53,"Hanson, Payne and Smith",In Transit
+TR0107,OR0107,Rail Tanker,5523.78,Harvey Ltd,Pending
+TR0108,OR0108,Pipeline,13764.88,"Green, Coleman and Quinn",Pending
+TR0109,OR0109,Rail Tanker,11253.03,Jackson Inc,Pending
+TR0110,OR0110,Rail Tanker,15430.69,"Kelley, Walsh and Snyder",Delivered
+TR0111,OR0111,Tanker Truck,1082.95,Perez LLC,In Transit
+TR0112,OR0112,Tanker Truck,12465.76,Davis Inc,Delivered
+TR0113,OR0113,Pipeline,12369.69,"Baker, Jordan and Kelley",In Transit
+TR0114,OR0114,Ship,17814.85,"Terry, Stevens and Randall",Delivered
+TR0115,OR0115,Tanker Truck,3498.39,George-Griffin,Delivered
+TR0116,OR0116,Ship,17132.03,Bell-Olson,Pending
+TR0117,OR0117,Rail Tanker,18143.08,"Ayers, Brown and Camacho",Delivered
+TR0118,OR0118,Pipeline,3475.1,"Gilmore, Morris and Adkins",Delivered
+TR0119,OR0119,Rail Tanker,1300.7,Gomez PLC,In Transit
+TR0120,OR0120,Pipeline,9865.08,Davidson-Clark,Delivered
+TR0121,OR0121,Pipeline,8094.47,"Cooper, Arellano and Cross",In Transit
+TR0122,OR0122,Rail Tanker,6837.36,Graham-Moreno,Delivered
+TR0123,OR0123,Pipeline,5356.66,"Hawkins, Brown and Walker",In Transit
+TR0124,OR0124,Pipeline,18257.25,"Johnson, Torres and Martin",Pending
+TR0125,OR0125,Pipeline,15177.73,"Bailey, Watson and Park",Delivered
+TR0126,OR0126,Pipeline,7039.15,"Russell, Lewis and West",In Transit
+TR0127,OR0127,Rail Tanker,18354.29,Reed-Myers,Pending
+TR0128,OR0128,Tanker Truck,16529.88,Miller-Scott,Delivered
+TR0129,OR0129,Tanker Truck,11609.57,Schaefer Inc,Pending
+TR0130,OR0130,Tanker Truck,7317.37,"Conley, Collins and Patterson",In Transit
+TR0131,OR0131,Tanker Truck,11623.51,Thompson Inc,Delivered
+TR0132,OR0132,Ship,14221.49,Wilson PLC,In Transit
+TR0133,OR0133,Pipeline,4338.46,Obrien-Nelson,Pending
+TR0134,OR0134,Rail Tanker,9263.44,Brown-Rodriguez,Delivered
+TR0135,OR0135,Ship,1364.12,"Campos, Phillips and Brown",In Transit
+TR0136,OR0136,Rail Tanker,4301.16,Carey-Davis,Pending
+TR0137,OR0137,Tanker Truck,17706.57,Mcgrath-Moore,Pending
+TR0138,OR0138,Ship,9088.12,May Ltd,Pending
+TR0139,OR0139,Rail Tanker,10223.35,Oliver-Brown,Pending
+TR0140,OR0140,Rail Tanker,3952.09,Dixon LLC,Delivered
+TR0141,OR0141,Pipeline,3315.81,Henry-Thompson,Pending
+TR0142,OR0142,Pipeline,18467.26,"White, Brown and Macias",Pending
+TR0143,OR0143,Rail Tanker,16695.01,Russell PLC,Pending
+TR0144,OR0144,Tanker Truck,11464.54,"Zhang, Clark and Espinoza",Pending
+TR0145,OR0145,Tanker Truck,15597.03,Peters-Hooper,Delivered
+TR0146,OR0146,Tanker Truck,18714.56,Greene-Lee,In Transit
+TR0147,OR0147,Tanker Truck,14223.26,"Smith, Daniels and Rasmussen",In Transit
+TR0148,OR0148,Ship,16060.02,Smith-Martinez,Pending
+TR0149,OR0149,Tanker Truck,7877.57,"Santiago, Ross and Middleton",Pending
+TR0150,OR0150,Rail Tanker,6345.46,Martin and Sons,Pending
+TR0151,OR0151,Tanker Truck,10576.86,Adkins-Hall,Delivered
+TR0152,OR0152,Pipeline,4051.5,Richards-Garcia,Delivered
+TR0153,OR0153,Pipeline,7306.41,Wilkerson PLC,In Transit
+TR0154,OR0154,Tanker Truck,2474.76,"Thomas, Jackson and Smith",In Transit
+TR0155,OR0155,Rail Tanker,8004.88,Bean Ltd,Pending
+TR0156,OR0156,Tanker Truck,15659.8,Walker-Jordan,Pending
+TR0157,OR0157,Rail Tanker,3085.68,"Welch, Holmes and Jenkins",Pending
+TR0158,OR0158,Tanker Truck,2403.88,Quinn LLC,In Transit
+TR0159,OR0159,Ship,3204.26,"Neal, Clarke and Mason",Delivered
+TR0160,OR0160,Rail Tanker,10470.76,Jimenez-Wiggins,Delivered
+TR0161,OR0161,Rail Tanker,15071.36,"Townsend, Johnson and Bates",In Transit
+TR0162,OR0162,Pipeline,7474.69,Lopez-Walker,Pending
+TR0163,OR0163,Pipeline,17412.42,"Hendrix, Whitehead and Montes",Delivered
+TR0164,OR0164,Rail Tanker,19746.33,Smith Group,In Transit
+TR0165,OR0165,Rail Tanker,14343.31,Harvey-Hood,In Transit
+TR0166,OR0166,Tanker Truck,12908.47,Stark-Harmon,In Transit
+TR0167,OR0167,Tanker Truck,2171.35,Ward and Sons,Delivered
+TR0168,OR0168,Rail Tanker,4488.71,Castaneda Inc,Pending
+TR0169,OR0169,Ship,19466.3,"Clark, Davis and Miller",In Transit
+TR0170,OR0170,Rail Tanker,6721.96,"Cabrera, Lara and Mcguire",Pending
+TR0171,OR0171,Tanker Truck,13223.19,"Saunders, Vega and Kaufman",Delivered
+TR0172,OR0172,Pipeline,12196.69,"Perez, Lopez and Robinson",In Transit
+TR0173,OR0173,Tanker Truck,14181.04,Barrett and Sons,Delivered
+TR0174,OR0174,Pipeline,6247.14,Lewis-Terrell,Pending
+TR0175,OR0175,Ship,2073.11,Nelson-Suarez,In Transit
+TR0176,OR0176,Tanker Truck,6812.37,Sanchez-Herring,In Transit
+TR0177,OR0177,Ship,2369.22,"Roman, Sanchez and Stevens",Delivered
+TR0178,OR0178,Ship,4886.0,Diaz-Young,Delivered
+TR0179,OR0179,Rail Tanker,11423.36,Anderson Ltd,In Transit
+TR0180,OR0180,Ship,15170.57,"Gonzales, Hamilton and Edwards",Pending
+TR0181,OR0181,Tanker Truck,16055.15,Brown Inc,Pending
+TR0182,OR0182,Rail Tanker,5910.3,Dickerson-Preston,Delivered
+TR0183,OR0183,Pipeline,2750.81,Cooley LLC,Pending
+TR0184,OR0184,Tanker Truck,6512.14,Crawford-Price,In Transit
+TR0185,OR0185,Tanker Truck,6030.76,"Smith, Orr and Clayton",Pending
+TR0186,OR0186,Tanker Truck,17751.22,Roy-Stewart,Delivered
+TR0187,OR0187,Tanker Truck,7698.99,"Colon, Harrington and Terry",In Transit
+TR0188,OR0188,Ship,5996.15,"Harris, Fuller and Blair",In Transit
+TR0189,OR0189,Pipeline,14457.85,Walker Inc,Delivered
+TR0190,OR0190,Ship,6573.77,Chandler PLC,Delivered
+TR0191,OR0191,Pipeline,19141.83,Mathis Ltd,Pending
+TR0192,OR0192,Rail Tanker,13044.29,Rodriguez LLC,Delivered
+TR0193,OR0193,Rail Tanker,4554.46,Davis-Scott,Pending
+TR0194,OR0194,Ship,2064.24,Ward Inc,Pending
+TR0195,OR0195,Rail Tanker,8843.27,Lozano-Stewart,In Transit
+TR0196,OR0196,Rail Tanker,1939.75,Bryant-Skinner,Pending
+TR0197,OR0197,Tanker Truck,6539.0,"Jones, Tran and Rivera",Delivered
+TR0198,OR0198,Tanker Truck,14396.35,Fowler-Jones,Delivered
+TR0199,OR0199,Ship,4190.31,"Pham, Brooks and Hicks",In Transit
+TR0200,OR0200,Pipeline,2693.51,Whitaker and Sons,In Transit
+TR0201,OR0201,Pipeline,9850.35,Sellers-Harris,Pending
+TR0202,OR0202,Ship,18443.2,Odonnell-Fields,Pending
+TR0203,OR0203,Tanker Truck,19182.78,Williams-Medina,Delivered
+TR0204,OR0204,Pipeline,6960.65,"Bishop, Williams and Lee",In Transit
+TR0205,OR0205,Ship,18326.37,Bennett Group,In Transit
+TR0206,OR0206,Ship,9296.53,"Bryant, Morse and Smith",Delivered
+TR0207,OR0207,Pipeline,10479.19,"Camacho, Mitchell and Hernandez",In Transit
+TR0208,OR0208,Rail Tanker,4111.92,Jackson-Smith,Delivered
+TR0209,OR0209,Tanker Truck,9316.52,Barnes-Thornton,In Transit
+TR0210,OR0210,Tanker Truck,8545.29,Johnson Inc,Delivered
+TR0211,OR0211,Pipeline,14790.15,Johnson-Torres,Pending
+TR0212,OR0212,Ship,13797.74,Diaz-Shaw,Delivered
+TR0213,OR0213,Pipeline,16110.66,"Sanchez, Sutton and Carey",Pending
+TR0214,OR0214,Pipeline,2385.91,"Mitchell, Mann and Chang",Pending
+TR0215,OR0215,Rail Tanker,11120.32,Cummings LLC,Pending
+TR0216,OR0216,Tanker Truck,12297.9,Thomas-Hayes,In Transit
+TR0217,OR0217,Tanker Truck,6334.8,Reed-Briggs,Delivered
+TR0218,OR0218,Ship,15192.1,Small and Sons,Delivered
+TR0219,OR0219,Pipeline,9528.35,Morgan Ltd,In Transit
+TR0220,OR0220,Tanker Truck,4572.08,Cox Group,In Transit
+TR0221,OR0221,Ship,4742.69,"Anderson, Graves and Ramirez",Pending
+TR0222,OR0222,Ship,18188.69,Fletcher-Holmes,Pending
+TR0223,OR0223,Tanker Truck,5039.9,"Crawford, Burnett and Brown",In Transit
+TR0224,OR0224,Ship,14306.96,Olsen-Rowland,Pending
+TR0225,OR0225,Pipeline,14709.35,"Potter, Castro and Morgan",In Transit
+TR0226,OR0226,Ship,16551.37,Hughes-Holt,Delivered
+TR0227,OR0227,Pipeline,18146.95,"Carter, Ferguson and Lewis",In Transit
+TR0228,OR0228,Pipeline,2343.15,Payne LLC,Pending
+TR0229,OR0229,Pipeline,7618.53,"Murphy, Evans and Reyes",In Transit
+TR0230,OR0230,Pipeline,9927.65,"Buckley, Taylor and Hughes",In Transit
+TR0231,OR0231,Pipeline,9086.11,"Brown, Carter and Charles",Delivered
+TR0232,OR0232,Pipeline,16534.62,Kelly Group,Pending
+TR0233,OR0233,Tanker Truck,12340.14,"Hayes, Henson and Wells",Pending
+TR0234,OR0234,Tanker Truck,12505.0,Conrad Inc,Pending
+TR0235,OR0235,Pipeline,12105.57,"West, Graham and Evans",Delivered
+TR0236,OR0236,Rail Tanker,5980.13,Neal-Moore,In Transit
+TR0237,OR0237,Rail Tanker,1402.7,Black-Stewart,In Transit
+TR0238,OR0238,Tanker Truck,6129.75,Bailey-Bryan,Delivered
+TR0239,OR0239,Tanker Truck,6367.58,Santiago LLC,Pending
+TR0240,OR0240,Rail Tanker,14786.7,Williams PLC,Delivered
+TR0241,OR0241,Pipeline,14720.24,Powell Ltd,Delivered
+TR0242,OR0242,Pipeline,15410.09,Robinson-Thompson,In Transit
+TR0243,OR0243,Rail Tanker,16305.92,"Mcguire, Lucero and Williams",In Transit
+TR0244,OR0244,Ship,1931.49,"Allen, Johnson and Webster",In Transit
+TR0245,OR0245,Rail Tanker,13122.19,Knight LLC,Delivered
+TR0246,OR0246,Ship,5759.17,"Rich, Horton and Davis",Pending
+TR0247,OR0247,Ship,17643.54,"Green, Wilkins and Sanchez",In Transit
+TR0248,OR0248,Ship,12737.29,"Clark, Washington and Smith",Delivered
+TR0249,OR0249,Tanker Truck,14018.47,"Stone, Griffith and Russell",Delivered
+TR0250,OR0250,Ship,10654.56,"Beck, Robinson and Hudson",Delivered
+TR0251,OR0251,Rail Tanker,15209.47,Turner Ltd,In Transit
+TR0252,OR0252,Tanker Truck,16539.69,Graves-Wang,Pending
+TR0253,OR0253,Pipeline,3574.44,Price-Hopkins,In Transit
+TR0254,OR0254,Rail Tanker,3365.35,Santos-Alvarado,In Transit
+TR0255,OR0255,Rail Tanker,19812.65,Manning-Mueller,Delivered
+TR0256,OR0256,Tanker Truck,8703.74,"Gonzales, Robinson and Doyle",Delivered
+TR0257,OR0257,Tanker Truck,2351.56,Burns-Marquez,Delivered
+TR0258,OR0258,Rail Tanker,14829.05,Baker and Sons,In Transit
+TR0259,OR0259,Ship,6892.66,White LLC,Pending
+TR0260,OR0260,Tanker Truck,14807.08,Robertson-Black,Delivered
+TR0261,OR0261,Ship,3181.8,Fields-Allen,Delivered
+TR0262,OR0262,Ship,11984.6,Thomas-Lopez,Pending
+TR0263,OR0263,Rail Tanker,17798.3,Mccarthy-King,Delivered
+TR0264,OR0264,Rail Tanker,5852.37,Thomas and Sons,Pending
+TR0265,OR0265,Ship,1454.47,"Paul, Cole and Welch",In Transit
+TR0266,OR0266,Pipeline,4293.12,Delacruz-Beard,Pending
+TR0267,OR0267,Tanker Truck,15305.09,Gonzalez Inc,Delivered
+TR0268,OR0268,Rail Tanker,1454.02,Cunningham-Reid,Delivered
+TR0269,OR0269,Ship,11076.12,"Mathis, Dunn and Parker",Delivered
+TR0270,OR0270,Tanker Truck,5887.09,Thompson-Cardenas,Delivered
+TR0271,OR0271,Ship,16304.79,Owens-Barajas,Pending
+TR0272,OR0272,Ship,4488.0,Burke-Howard,Delivered
+TR0273,OR0273,Pipeline,10483.03,"Castro, Nguyen and Olsen",In Transit
+TR0274,OR0274,Ship,15829.84,Bennett-Moore,Delivered
+TR0275,OR0275,Tanker Truck,16421.37,Garcia PLC,Pending
+TR0276,OR0276,Ship,4226.35,Mitchell-Liu,In Transit
+TR0277,OR0277,Pipeline,16218.17,Leonard PLC,Delivered
+TR0278,OR0278,Ship,19276.92,Huber-Williams,Pending
+TR0279,OR0279,Rail Tanker,19862.2,"Nunez, Foster and Price",Delivered
+TR0280,OR0280,Tanker Truck,9739.66,Cox Inc,Pending
+TR0281,OR0281,Pipeline,9291.92,Nicholson-Bowman,Delivered
+TR0282,OR0282,Rail Tanker,8963.65,Castro-Evans,In Transit
+TR0283,OR0283,Tanker Truck,2215.95,Pitts LLC,Pending
+TR0284,OR0284,Pipeline,14746.89,"Gutierrez, Fischer and Sanchez",Pending
+TR0285,OR0285,Pipeline,1591.31,"Gray, Bonilla and Fleming",Pending
+TR0286,OR0286,Pipeline,10037.88,Russo-Oconnor,Delivered
+TR0287,OR0287,Tanker Truck,16320.31,Mann PLC,Delivered
+TR0288,OR0288,Rail Tanker,5601.2,Payne LLC,Delivered
+TR0289,OR0289,Tanker Truck,17821.61,Young-Wright,Pending
+TR0290,OR0290,Ship,2932.33,"Glass, Garrison and Phillips",In Transit
+TR0291,OR0291,Rail Tanker,19647.71,Rodriguez LLC,In Transit
+TR0292,OR0292,Ship,15347.08,Cabrera PLC,Pending
+TR0293,OR0293,Rail Tanker,11996.77,"Donovan, Wong and Frey",Delivered
+TR0294,OR0294,Ship,13779.52,Jones Ltd,In Transit
+TR0295,OR0295,Tanker Truck,3404.45,Richards-Ramirez,In Transit
+TR0296,OR0296,Pipeline,8211.11,Gonzalez-Webster,Pending
+TR0297,OR0297,Tanker Truck,11116.79,Smith Group,In Transit
+TR0298,OR0298,Pipeline,2747.14,"Smith, Moore and Stevens",Delivered
+TR0299,OR0299,Pipeline,5497.24,Fernandez Group,Pending
+TR0300,OR0300,Ship,4216.85,Ross-Peters,Pending
+TR0301,OR0301,Tanker Truck,11256.22,Harvey LLC,In Transit
+TR0302,OR0302,Tanker Truck,19562.29,Gross Group,Delivered
+TR0303,OR0303,Tanker Truck,7119.97,"Gibson, York and Diaz",Delivered
+TR0304,OR0304,Rail Tanker,1240.05,Ibarra-Crawford,In Transit
+TR0305,OR0305,Pipeline,9366.37,Anderson-Evans,Pending
+TR0306,OR0306,Rail Tanker,11590.0,Thompson Ltd,Pending
+TR0307,OR0307,Tanker Truck,6873.25,Miller Group,Pending
+TR0308,OR0308,Tanker Truck,13505.4,Parks Inc,In Transit
+TR0309,OR0309,Rail Tanker,2996.61,"Rodriguez, Wheeler and Klein",In Transit
+TR0310,OR0310,Tanker Truck,15987.92,"Smith, Hunt and George",In Transit
+TR0311,OR0311,Rail Tanker,5242.37,"Sullivan, Taylor and Richardson",Pending
+TR0312,OR0312,Ship,17678.3,"Smith, Gentry and Jones",Delivered
+TR0313,OR0313,Rail Tanker,10243.51,Heath-Mccoy,Delivered
+TR0314,OR0314,Rail Tanker,13553.15,"Mccarty, Bates and Oliver",Delivered
+TR0315,OR0315,Pipeline,10144.29,Marshall Inc,Pending
+TR0316,OR0316,Tanker Truck,19818.75,Shelton PLC,Pending
+TR0317,OR0317,Pipeline,1078.29,Lee Ltd,Delivered
+TR0318,OR0318,Rail Tanker,10909.49,"Lee, Fry and Stone",Pending
+TR0319,OR0319,Pipeline,12546.15,"Massey, Smith and Reyes",Pending
+TR0320,OR0320,Pipeline,18053.83,Pennington-Johnson,Delivered
+TR0321,OR0321,Rail Tanker,1779.73,Tucker-Moore,In Transit
+TR0322,OR0322,Ship,7468.27,Ortega-Sanders,In Transit
+TR0323,OR0323,Rail Tanker,13560.38,"Powers, Irwin and Smith",Pending
+TR0324,OR0324,Ship,17211.69,"Vaughn, Baker and Mccullough",In Transit
+TR0325,OR0325,Rail Tanker,16565.14,Guerrero PLC,Pending
+TR0326,OR0326,Pipeline,15529.8,"Tucker, Anderson and Ferguson",In Transit
+TR0327,OR0327,Rail Tanker,10553.37,Nelson Group,Delivered
+TR0328,OR0328,Tanker Truck,19857.94,Chan-Dickson,Pending
+TR0329,OR0329,Ship,8402.39,Walton Group,Pending
+TR0330,OR0330,Ship,6638.21,"Wilson, Jones and Collins",Pending
+TR0331,OR0331,Tanker Truck,1467.89,"Reid, Hicks and Morton",Pending
+TR0332,OR0332,Tanker Truck,12844.22,Nelson Group,Pending
+TR0333,OR0333,Rail Tanker,18255.21,Williams Inc,Pending
+TR0334,OR0334,Ship,17141.21,"Gordon, Burch and Young",Delivered
+TR0335,OR0335,Ship,19548.08,Larson-Weaver,Pending
+TR0336,OR0336,Rail Tanker,8537.25,"Savage, Howell and Armstrong",Delivered
+TR0337,OR0337,Ship,18371.37,"Case, Davis and Anthony",Delivered
+TR0338,OR0338,Pipeline,1184.2,Allison Inc,Pending
+TR0339,OR0339,Ship,7909.23,"Weaver, Fernandez and Kennedy",Pending
+TR0340,OR0340,Ship,15357.61,Rivera-Lynn,In Transit
+TR0341,OR0341,Ship,9153.06,Mullins-Richards,Pending
+TR0342,OR0342,Ship,7984.57,"Gould, Moore and Smith",In Transit
+TR0343,OR0343,Rail Tanker,17248.75,Lara and Sons,In Transit
+TR0344,OR0344,Tanker Truck,18440.79,Flores and Sons,In Transit
+TR0345,OR0345,Pipeline,14394.39,Anderson-Ortiz,Pending
+TR0346,OR0346,Pipeline,7454.71,Wilkins PLC,In Transit
+TR0347,OR0347,Tanker Truck,2537.59,Navarro and Sons,Pending
+TR0348,OR0348,Pipeline,1060.7,Taylor Inc,Delivered
+TR0349,OR0349,Ship,17746.77,Sanchez-Powell,Delivered
+TR0350,OR0350,Rail Tanker,14760.48,Smith-Conley,In Transit
+TR0351,OR0351,Tanker Truck,9949.38,Bell-Mack,Pending
+TR0352,OR0352,Ship,17668.74,Singh Group,Pending
+TR0353,OR0353,Pipeline,7323.47,"Thompson, Hall and Moore",Pending
+TR0354,OR0354,Tanker Truck,9744.67,Gutierrez Ltd,Delivered
+TR0355,OR0355,Ship,16392.07,Kramer Group,Pending
+TR0356,OR0356,Tanker Truck,8535.17,"Wong, George and Williams",Delivered
+TR0357,OR0357,Pipeline,7547.13,Martinez-Taylor,In Transit
+TR0358,OR0358,Ship,18467.43,Bailey Group,Pending
+TR0359,OR0359,Rail Tanker,9280.23,Howard-Hill,Delivered
+TR0360,OR0360,Tanker Truck,15279.35,"Meyers, Winters and Garrett",Delivered
+TR0361,OR0361,Ship,5715.8,"Boyd, Morales and Butler",Delivered
+TR0362,OR0362,Ship,18670.55,"Lewis, Torres and Rose",Pending
+TR0363,OR0363,Ship,19333.45,"Roberts, Taylor and Cole",Delivered
+TR0364,OR0364,Pipeline,15976.52,Young Group,Delivered
+TR0365,OR0365,Pipeline,14891.13,"Williams, Williams and Wu",In Transit
+TR0366,OR0366,Rail Tanker,19350.66,Fisher and Sons,Delivered
+TR0367,OR0367,Tanker Truck,19710.13,"Brown, Hamilton and Robinson",Delivered
+TR0368,OR0368,Ship,17031.47,Roth Group,Delivered
+TR0369,OR0369,Pipeline,8255.66,Martinez-Thomas,Pending
+TR0370,OR0370,Ship,5445.83,Moss-Miller,In Transit
+TR0371,OR0371,Pipeline,4924.98,Stephens PLC,Delivered
+TR0372,OR0372,Rail Tanker,4876.08,Hicks Inc,Delivered
+TR0373,OR0373,Rail Tanker,10795.32,Lucas and Sons,In Transit
+TR0374,OR0374,Ship,1061.06,"Alexander, Perkins and Kelly",Pending
+TR0375,OR0375,Pipeline,14213.93,"Rodriguez, Savage and Taylor",In Transit
+TR0376,OR0376,Tanker Truck,3034.97,Wilson PLC,In Transit
+TR0377,OR0377,Ship,15793.31,Garcia-Mccullough,In Transit
+TR0378,OR0378,Ship,13065.3,Freeman-Miller,Delivered
+TR0379,OR0379,Ship,10523.73,"Delacruz, Miller and Lin",Delivered
+TR0380,OR0380,Pipeline,2234.99,Smith-Myers,Pending
+TR0381,OR0381,Ship,3330.82,Morris LLC,Pending
+TR0382,OR0382,Pipeline,1256.44,Farley PLC,Pending
+TR0383,OR0383,Ship,9148.5,"Howard, White and Gaines",In Transit
+TR0384,OR0384,Tanker Truck,9824.11,Rogers-Fernandez,Pending
+TR0385,OR0385,Ship,7254.2,Adams Group,Delivered
+TR0386,OR0386,Ship,18615.14,"Cole, White and Rodriguez",Delivered
+TR0387,OR0387,Rail Tanker,6577.47,"Brown, Humphrey and Brooks",Pending
+TR0388,OR0388,Ship,17770.39,Gilbert-Lynch,In Transit
+TR0389,OR0389,Rail Tanker,3473.45,"Taylor, Gallagher and Johnson",In Transit
+TR0390,OR0390,Ship,8681.58,Wheeler-Gonzalez,Delivered
+TR0391,OR0391,Ship,12059.58,"Morrison, Vazquez and Jimenez",Pending
+TR0392,OR0392,Pipeline,19435.55,Sanchez-Giles,Pending
+TR0393,OR0393,Pipeline,12236.07,"Kane, Sherman and Scott",Pending
+TR0394,OR0394,Pipeline,5047.87,"Carter, Campbell and Ortiz",Pending
+TR0395,OR0395,Rail Tanker,10764.59,Smith Group,In Transit
+TR0396,OR0396,Pipeline,16672.64,Mcmahon-Cox,Pending
+TR0397,OR0397,Tanker Truck,13128.7,Edwards Ltd,In Transit
+TR0398,OR0398,Ship,10020.86,Kemp-Webster,Delivered
+TR0399,OR0399,Pipeline,4445.62,Collins and Sons,Pending
+TR0400,OR0400,Rail Tanker,13358.23,Sims Group,Pending
+TR0401,OR0401,Tanker Truck,3491.43,Francis LLC,Pending
+TR0402,OR0402,Ship,7594.15,"Smith, Humphrey and Roberts",In Transit
+TR0403,OR0403,Pipeline,16689.96,"Lopez, Parks and Murphy",In Transit
+TR0404,OR0404,Rail Tanker,17132.64,"Robinson, Bennett and Blevins",In Transit
+TR0405,OR0405,Tanker Truck,19776.52,Castaneda-Robinson,In Transit
+TR0406,OR0406,Pipeline,5213.43,Mosley and Sons,Delivered
+TR0407,OR0407,Tanker Truck,8854.89,"Orr, Munoz and Thompson",Delivered
+TR0408,OR0408,Rail Tanker,19550.82,Ryan-Mayo,Pending
+TR0409,OR0409,Pipeline,15559.37,Thompson-Garner,In Transit
+TR0410,OR0410,Ship,1829.43,Walls PLC,Pending
+TR0411,OR0411,Rail Tanker,15083.55,Powell-Sanders,Delivered
+TR0412,OR0412,Tanker Truck,3021.36,Miller-Haynes,In Transit
+TR0413,OR0413,Pipeline,4524.95,Cruz LLC,In Transit
+TR0414,OR0414,Pipeline,6987.46,"Schultz, Tapia and Evans",In Transit
+TR0415,OR0415,Ship,4469.55,"Lyons, Clark and French",Pending
+TR0416,OR0416,Ship,11637.44,Kelly and Sons,In Transit
+TR0417,OR0417,Tanker Truck,12700.15,Wright Ltd,Pending
+TR0418,OR0418,Tanker Truck,2223.81,Smith-Dennis,Delivered
+TR0419,OR0419,Rail Tanker,4723.24,"Houston, Williamson and Walker",In Transit
+TR0420,OR0420,Tanker Truck,13520.61,Hodge PLC,In Transit
+TR0421,OR0421,Tanker Truck,8245.25,Walker LLC,Delivered
+TR0422,OR0422,Rail Tanker,8395.28,Cook-Higgins,Delivered
+TR0423,OR0423,Pipeline,11621.25,Burch LLC,Pending
+TR0424,OR0424,Tanker Truck,13828.86,"Nixon, Pierce and Porter",Delivered
+TR0425,OR0425,Pipeline,1175.7,"Powell, Pugh and Hughes",In Transit
+TR0426,OR0426,Ship,10243.88,"James, Paul and Leonard",Pending
+TR0427,OR0427,Rail Tanker,17729.45,Mason-Mays,Delivered
+TR0428,OR0428,Tanker Truck,15397.42,"Kramer, Smith and Robinson",Delivered
+TR0429,OR0429,Ship,10650.89,Petersen-Lambert,Delivered
+TR0430,OR0430,Ship,4690.12,"Castro, Bennett and Galloway",Delivered
+TR0431,OR0431,Tanker Truck,1588.35,"Contreras, Taylor and Smith",Pending
+TR0432,OR0432,Ship,1456.12,"Dickson, Massey and Farley",In Transit
+TR0433,OR0433,Tanker Truck,16723.57,Gomez-Rogers,Pending
+TR0434,OR0434,Pipeline,6873.24,"Garrison, Sampson and Dixon",Delivered
+TR0435,OR0435,Ship,18341.36,Turner-Robertson,In Transit
+TR0436,OR0436,Tanker Truck,5462.21,Lewis-Santos,In Transit
+TR0437,OR0437,Rail Tanker,18114.81,"Rhodes, Carpenter and Gutierrez",Delivered
+TR0438,OR0438,Rail Tanker,10326.17,Bradley-Taylor,Pending
+TR0439,OR0439,Pipeline,10528.4,"Wood, Norris and Black",Pending
+TR0440,OR0440,Ship,3507.91,"Walton, Santos and Park",Delivered
+TR0441,OR0441,Ship,19652.27,Parker Inc,In Transit
+TR0442,OR0442,Ship,9919.84,Whitaker Ltd,Pending
+TR0443,OR0443,Pipeline,3468.33,"Fisher, Jones and Hess",Delivered
+TR0444,OR0444,Rail Tanker,13346.62,Todd LLC,In Transit
+TR0445,OR0445,Tanker Truck,11287.22,"Yoder, Gonzalez and Gillespie",Delivered
+TR0446,OR0446,Rail Tanker,11430.15,"Edwards, Mckenzie and Mckinney",Delivered
+TR0447,OR0447,Rail Tanker,2271.89,Snyder and Sons,In Transit
+TR0448,OR0448,Tanker Truck,12444.28,"Bernard, Holt and Campbell",Delivered
+TR0449,OR0449,Tanker Truck,15998.08,Miller-Ramos,In Transit
+TR0450,OR0450,Rail Tanker,14922.05,Adams-Powell,Pending
+TR0451,OR0451,Tanker Truck,7053.34,Reese-Newton,In Transit
+TR0452,OR0452,Pipeline,13879.13,Miller LLC,Pending
+TR0453,OR0453,Tanker Truck,17726.12,"Woods, Lopez and Moore",In Transit
+TR0454,OR0454,Pipeline,7191.9,Cross Group,Delivered
+TR0455,OR0455,Ship,8633.58,"Wood, Ford and Ball",Delivered
+TR0456,OR0456,Tanker Truck,13593.43,Price LLC,Delivered
+TR0457,OR0457,Tanker Truck,2609.78,Sandoval-Freeman,Pending
+TR0458,OR0458,Tanker Truck,2777.7,Evans-Hamilton,In Transit
+TR0459,OR0459,Rail Tanker,7582.33,Wagner and Sons,In Transit
+TR0460,OR0460,Ship,19288.52,"Walker, Perez and Brown",Delivered
+TR0461,OR0461,Tanker Truck,3467.79,"Wright, Colon and Gutierrez",Delivered
+TR0462,OR0462,Pipeline,11177.3,Hancock LLC,Delivered
+TR0463,OR0463,Pipeline,13983.76,"Malone, Johnson and Mckenzie",Pending
+TR0464,OR0464,Rail Tanker,12276.62,Hughes LLC,Delivered
+TR0465,OR0465,Rail Tanker,6684.72,Medina-Peterson,Pending
+TR0466,OR0466,Pipeline,19735.85,Wilson-Gordon,Delivered
+TR0467,OR0467,Rail Tanker,10065.71,Blake-Aguilar,In Transit
+TR0468,OR0468,Rail Tanker,19982.06,"Brown, Stanley and Dunn",In Transit
+TR0469,OR0469,Rail Tanker,16059.06,Morrison LLC,Pending
+TR0470,OR0470,Pipeline,17069.01,Jimenez Ltd,Pending
+TR0471,OR0471,Ship,3949.29,Castillo and Sons,Delivered
+TR0472,OR0472,Tanker Truck,16422.13,Galloway-Dunn,Pending
+TR0473,OR0473,Pipeline,12626.71,Meyer-Mcdaniel,In Transit
+TR0474,OR0474,Ship,16103.1,Burns Ltd,Pending
+TR0475,OR0475,Tanker Truck,18051.55,Bennett LLC,Delivered
+TR0476,OR0476,Rail Tanker,6863.45,Jones-Marquez,Delivered
+TR0477,OR0477,Tanker Truck,3072.06,"Morris, Black and Perez",Pending
+TR0478,OR0478,Ship,1225.49,Turner-Marshall,Delivered
+TR0479,OR0479,Tanker Truck,16513.85,"Navarro, Gentry and Miller",Pending
+TR0480,OR0480,Rail Tanker,19572.37,Watson-Cochran,In Transit
+TR0481,OR0481,Tanker Truck,9082.79,Mccoy PLC,Pending
+TR0482,OR0482,Ship,5585.89,Robinson and Sons,Pending
+TR0483,OR0483,Tanker Truck,15468.84,Bond Ltd,Delivered
+TR0484,OR0484,Tanker Truck,17709.25,"Miller, Galloway and Love",Delivered
+TR0485,OR0485,Rail Tanker,5655.9,Thompson Group,Delivered
+TR0486,OR0486,Pipeline,6739.26,Scott and Sons,In Transit
+TR0487,OR0487,Ship,9664.8,"Zimmerman, Clements and Washington",In Transit
+TR0488,OR0488,Rail Tanker,10039.45,"Friedman, Murray and Maxwell",Pending
+TR0489,OR0489,Ship,18674.3,"Perry, Spencer and Walker",Delivered
+TR0490,OR0490,Rail Tanker,1527.64,Barker LLC,Delivered
+TR0491,OR0491,Ship,14031.21,Wilson PLC,Delivered
+TR0492,OR0492,Rail Tanker,11697.0,Walker Inc,Pending
+TR0493,OR0493,Rail Tanker,8390.73,Morris-Doyle,Delivered
+TR0494,OR0494,Tanker Truck,4330.19,"Arnold, Thomas and Mendoza",Pending
+TR0495,OR0495,Ship,4233.09,Orr-Pugh,In Transit
+TR0496,OR0496,Rail Tanker,1413.19,"Lee, Smith and Martinez",Delivered
+TR0497,OR0497,Pipeline,12750.77,Merritt-Wood,In Transit
+TR0498,OR0498,Ship,7569.17,"Perez, Banks and Rogers",In Transit
+TR0499,OR0499,Ship,4742.49,"Taylor, Rogers and Johnston",In Transit
+TR0500,OR0500,Pipeline,12366.63,"Ortiz, Rasmussen and Simon",Pending
+TR0501,OR0501,Tanker Truck,11447.1,"Cook, Erickson and French",Pending
+TR0502,OR0502,Tanker Truck,8888.01,"Mitchell, Hicks and Lozano",Delivered
+TR0503,OR0503,Ship,5945.3,Kelley-Ferguson,Pending
+TR0504,OR0504,Rail Tanker,16640.29,Norris-Irwin,In Transit
+TR0505,OR0505,Rail Tanker,7944.72,"Wilson, Hays and Summers",In Transit
+TR0506,OR0506,Pipeline,14606.59,Bell and Sons,In Transit
+TR0507,OR0507,Ship,9144.64,"Garcia, Walker and Walker",Delivered
+TR0508,OR0508,Ship,8588.7,Lewis-Page,In Transit
+TR0509,OR0509,Ship,18265.7,Ramsey Group,In Transit
+TR0510,OR0510,Rail Tanker,2804.77,"Stewart, Palmer and Ware",Pending
+TR0511,OR0511,Pipeline,14975.97,Carrillo PLC,Delivered
+TR0512,OR0512,Rail Tanker,15372.34,Hamilton-Howe,Delivered
+TR0513,OR0513,Pipeline,9128.21,Jones and Sons,Pending
+TR0514,OR0514,Ship,1209.33,Allen LLC,In Transit
+TR0515,OR0515,Pipeline,17870.6,"Torres, Rice and Rios",Pending
+TR0516,OR0516,Rail Tanker,8817.07,Petersen-Warren,In Transit
+TR0517,OR0517,Pipeline,1691.38,Cooper LLC,Delivered
+TR0518,OR0518,Tanker Truck,12734.19,Hernandez-Robinson,In Transit
+TR0519,OR0519,Ship,15328.64,Anderson and Sons,Delivered
+TR0520,OR0520,Tanker Truck,5200.92,Howard LLC,Delivered
+TR0521,OR0521,Tanker Truck,9662.67,Swanson-Miller,Delivered
+TR0522,OR0522,Tanker Truck,16115.95,Reynolds-Scott,Delivered
+TR0523,OR0523,Pipeline,9929.06,"Evans, West and Jones",In Transit
+TR0524,OR0524,Tanker Truck,8086.94,"Benson, Woods and Ruiz",Delivered
+TR0525,OR0525,Ship,9621.18,Lawrence Ltd,In Transit
+TR0526,OR0526,Tanker Truck,3302.72,Johnson-Mccarty,Pending
+TR0527,OR0527,Rail Tanker,12015.9,"George, Hill and Chavez",In Transit
+TR0528,OR0528,Ship,4272.49,Cortez Inc,In Transit
+TR0529,OR0529,Tanker Truck,9742.01,"Torres, Hart and Lee",In Transit
+TR0530,OR0530,Rail Tanker,16279.17,Thompson and Sons,Delivered
+TR0531,OR0531,Ship,2618.0,Mckinney-Nelson,In Transit
+TR0532,OR0532,Rail Tanker,1432.89,"Moore, Ross and Moss",In Transit
+TR0533,OR0533,Ship,5541.47,"Miles, Snyder and Williams",Pending
+TR0534,OR0534,Rail Tanker,16657.18,York PLC,Pending
+TR0535,OR0535,Rail Tanker,3129.97,Christensen LLC,Delivered
+TR0536,OR0536,Tanker Truck,11751.03,Blevins LLC,Pending
+TR0537,OR0537,Rail Tanker,17493.79,Wade Inc,In Transit
+TR0538,OR0538,Rail Tanker,12833.65,Hester-Ochoa,In Transit
+TR0539,OR0539,Pipeline,18362.16,Espinoza-Rodriguez,Delivered
+TR0540,OR0540,Tanker Truck,8263.48,Weeks-Clark,In Transit
+TR0541,OR0541,Ship,8091.99,"Zimmerman, Lopez and Mcdonald",In Transit
+TR0542,OR0542,Tanker Truck,14660.8,Golden-Nelson,Pending
+TR0543,OR0543,Tanker Truck,17571.92,Clark Group,In Transit
+TR0544,OR0544,Tanker Truck,17599.59,Pope and Sons,In Transit
+TR0545,OR0545,Tanker Truck,16031.8,Dillon PLC,Pending
+TR0546,OR0546,Rail Tanker,5916.87,Mcconnell LLC,Pending
+TR0547,OR0547,Rail Tanker,19978.9,Armstrong-Moses,Pending
+TR0548,OR0548,Pipeline,5798.44,Allen LLC,Delivered
+TR0549,OR0549,Tanker Truck,17478.64,Meza-Smith,Delivered
+TR0550,OR0550,Tanker Truck,11944.41,"Rose, Reed and Harris",Delivered
+TR0551,OR0551,Ship,1919.86,Sanders LLC,Delivered
+TR0552,OR0552,Rail Tanker,15217.12,Martinez and Sons,In Transit
+TR0553,OR0553,Rail Tanker,8992.16,Garcia PLC,Delivered
+TR0554,OR0554,Ship,17547.66,Johnson Ltd,Delivered
+TR0555,OR0555,Rail Tanker,8257.29,Taylor LLC,In Transit
+TR0556,OR0556,Ship,6973.27,Wilcox-Graves,Delivered
+TR0557,OR0557,Rail Tanker,12998.37,Villarreal-Anderson,Delivered
+TR0558,OR0558,Rail Tanker,9172.07,Jones-Adams,In Transit
+TR0559,OR0559,Pipeline,12615.14,Leonard Inc,Delivered
+TR0560,OR0560,Pipeline,7248.99,"Johnston, Gibson and Chandler",Delivered
+TR0561,OR0561,Pipeline,2619.2,Harrington-Juarez,Pending
+TR0562,OR0562,Ship,16664.31,"Sweeney, Young and Lawrence",In Transit
+TR0563,OR0563,Ship,1573.8,Heath Inc,In Transit
+TR0564,OR0564,Pipeline,12593.06,Harding-Lopez,In Transit
+TR0565,OR0565,Rail Tanker,5490.25,"Ruiz, Murphy and Davis",Delivered
+TR0566,OR0566,Tanker Truck,10443.48,"Snyder, Foster and Chavez",In Transit
+TR0567,OR0567,Rail Tanker,17784.37,"Higgins, Reyes and Mcconnell",In Transit
+TR0568,OR0568,Rail Tanker,2310.63,"Ramirez, Clark and Russell",Pending
+TR0569,OR0569,Pipeline,16089.09,Fitzpatrick Inc,Pending
+TR0570,OR0570,Pipeline,9514.71,Morris-Collins,Pending
+TR0571,OR0571,Rail Tanker,19828.66,"Roach, Fletcher and Tran",In Transit
+TR0572,OR0572,Pipeline,18151.75,Miles Inc,Delivered
+TR0573,OR0573,Tanker Truck,1900.79,"Valdez, Campbell and Jenkins",Pending
+TR0574,OR0574,Rail Tanker,15325.13,Cole-Peterson,Pending
+TR0575,OR0575,Ship,8444.87,Cole-Lang,Pending
+TR0576,OR0576,Ship,14481.67,Brown-Cooper,Pending
+TR0577,OR0577,Tanker Truck,6898.6,Logan Group,Pending
+TR0578,OR0578,Pipeline,19077.36,Johnson-Dodson,Delivered
+TR0579,OR0579,Rail Tanker,8095.69,"Lopez, Manning and Bird",In Transit
+TR0580,OR0580,Rail Tanker,9049.84,"Tran, Baker and Thomas",In Transit
+TR0581,OR0581,Pipeline,16700.37,Allen-Leonard,Pending
+TR0582,OR0582,Pipeline,16661.45,"Riley, Miller and Jimenez",In Transit
+TR0583,OR0583,Tanker Truck,6982.49,Graham-Jensen,Delivered
+TR0584,OR0584,Rail Tanker,8601.95,"Costa, Hamilton and Mitchell",In Transit
+TR0585,OR0585,Pipeline,18051.81,Buchanan-Campbell,Pending
+TR0586,OR0586,Tanker Truck,10900.61,"Kirk, Gilbert and Duran",Delivered
+TR0587,OR0587,Ship,14471.1,Matthews Inc,Delivered
+TR0588,OR0588,Ship,5888.97,"Moyer, Lewis and Mitchell",Delivered
+TR0589,OR0589,Rail Tanker,12314.31,Davis-Mullen,Delivered
+TR0590,OR0590,Rail Tanker,11515.58,"Stevens, Padilla and Rodriguez",Delivered
+TR0591,OR0591,Tanker Truck,13934.07,Baldwin LLC,Pending
+TR0592,OR0592,Rail Tanker,4485.62,"Horton, Simmons and Olson",Pending
+TR0593,OR0593,Pipeline,16530.3,"Abbott, Hayden and Mcfarland",In Transit
+TR0594,OR0594,Tanker Truck,12332.23,Sanchez LLC,Delivered
+TR0595,OR0595,Tanker Truck,9860.42,"Dillon, Murphy and Mccoy",In Transit
+TR0596,OR0596,Ship,6342.57,Johnson LLC,In Transit
+TR0597,OR0597,Pipeline,9557.44,Wall Ltd,Pending
+TR0598,OR0598,Rail Tanker,10094.06,Valdez Inc,In Transit
+TR0599,OR0599,Pipeline,14313.65,"Ferguson, Wilkinson and Garza",Delivered
+TR0600,OR0600,Tanker Truck,8735.4,"Butler, Bowen and Mitchell",In Transit
+TR0601,OR0601,Pipeline,6361.53,Kaiser Ltd,In Transit
+TR0602,OR0602,Ship,7071.27,Thomas LLC,Pending
+TR0603,OR0603,Pipeline,19879.34,"Watts, Baker and Austin",Pending
+TR0604,OR0604,Pipeline,5806.93,Knight-Sellers,Delivered
+TR0605,OR0605,Pipeline,12298.96,Orr-Maxwell,Delivered
+TR0606,OR0606,Tanker Truck,4455.34,Roberts LLC,Delivered
+TR0607,OR0607,Rail Tanker,16119.41,Kramer-Maynard,Delivered
+TR0608,OR0608,Pipeline,3864.15,Phillips-Clark,In Transit
+TR0609,OR0609,Ship,5486.78,Richmond LLC,Delivered
+TR0610,OR0610,Tanker Truck,1200.33,"Horton, Johnson and Hill",In Transit
+TR0611,OR0611,Pipeline,18333.73,Allen Inc,Delivered
+TR0612,OR0612,Tanker Truck,2687.05,Drake-Tran,Delivered
+TR0613,OR0613,Ship,5553.67,Middleton-Thomas,In Transit
+TR0614,OR0614,Pipeline,8129.07,Payne PLC,Delivered
+TR0615,OR0615,Pipeline,9204.84,Turner and Sons,In Transit
+TR0616,OR0616,Ship,7923.86,"Reyes, Boyd and Briggs",In Transit
+TR0617,OR0617,Rail Tanker,14754.84,"Long, Swanson and Shaffer",In Transit
+TR0618,OR0618,Pipeline,6206.43,Soto PLC,Pending
+TR0619,OR0619,Pipeline,10856.45,Flores-Valenzuela,Pending
+TR0620,OR0620,Ship,11933.36,Ford Ltd,In Transit
+TR0621,OR0621,Pipeline,16444.35,"Brown, Harvey and Nguyen",Pending
+TR0622,OR0622,Pipeline,18809.09,Harrison-Horne,Delivered
+TR0623,OR0623,Tanker Truck,15179.62,"Ortiz, Wheeler and Jarvis",In Transit
+TR0624,OR0624,Ship,11516.58,Le-Houston,In Transit
+TR0625,OR0625,Tanker Truck,4698.3,Richards PLC,In Transit
+TR0626,OR0626,Tanker Truck,7843.66,Greene-Juarez,Pending
+TR0627,OR0627,Rail Tanker,14531.7,Austin-Martinez,Pending
+TR0628,OR0628,Tanker Truck,16462.65,"Holmes, Howard and Romero",In Transit
+TR0629,OR0629,Tanker Truck,15511.28,Miller and Sons,Delivered
+TR0630,OR0630,Pipeline,16660.25,"Christian, Estrada and Dunn",In Transit
+TR0631,OR0631,Tanker Truck,4041.44,"Rangel, Carlson and Webb",Pending
+TR0632,OR0632,Pipeline,2522.0,"Davenport, Madden and White",In Transit
+TR0633,OR0633,Tanker Truck,2950.62,Torres PLC,Delivered
+TR0634,OR0634,Pipeline,1729.73,"Garza, Hill and Jensen",Pending
+TR0635,OR0635,Tanker Truck,4130.62,"Crawford, Boone and Wilson",In Transit
+TR0636,OR0636,Tanker Truck,12733.55,Wilson and Sons,In Transit
+TR0637,OR0637,Tanker Truck,7520.37,Chang and Sons,In Transit
+TR0638,OR0638,Pipeline,1988.82,Francis-Smith,In Transit
+TR0639,OR0639,Tanker Truck,5533.67,James-Bates,In Transit
+TR0640,OR0640,Tanker Truck,12172.62,"Phillips, Weaver and Greer",Delivered
+TR0641,OR0641,Ship,15939.86,Carroll-Rhodes,Delivered
+TR0642,OR0642,Rail Tanker,7829.21,Fisher-Sawyer,Pending
+TR0643,OR0643,Pipeline,4123.81,Castro-Terrell,Delivered
+TR0644,OR0644,Ship,17457.18,Ferguson Inc,Delivered
+TR0645,OR0645,Rail Tanker,16266.26,Montes Ltd,Delivered
+TR0646,OR0646,Pipeline,9724.59,Hall Inc,In Transit
+TR0647,OR0647,Tanker Truck,12991.17,"Wolf, Gordon and Garcia",Delivered
+TR0648,OR0648,Rail Tanker,2147.8,Swanson-Ochoa,Pending
+TR0649,OR0649,Ship,11093.17,"Crawford, Thomas and Perez",Pending
+TR0650,OR0650,Rail Tanker,6761.11,"Cook, Graham and Garcia",Pending
+TR0651,OR0651,Pipeline,12510.99,Shaw-Henry,Delivered
+TR0652,OR0652,Tanker Truck,8960.98,"Acosta, Green and Jones",Pending
+TR0653,OR0653,Ship,8378.73,"Horn, Proctor and Lane",Delivered
+TR0654,OR0654,Rail Tanker,6354.7,Jones-Anderson,Pending
+TR0655,OR0655,Pipeline,12623.27,Lewis and Sons,Delivered
+TR0656,OR0656,Ship,7697.78,Carey Ltd,In Transit
+TR0657,OR0657,Ship,2638.59,"Hoffman, Rodriguez and Powers",In Transit
+TR0658,OR0658,Tanker Truck,6100.22,Whitehead Ltd,In Transit
+TR0659,OR0659,Pipeline,3551.12,Reyes-Valencia,Pending
+TR0660,OR0660,Pipeline,9207.66,Carter-Cantu,Pending
+TR0661,OR0661,Pipeline,7927.79,Smith-Smith,Delivered
+TR0662,OR0662,Ship,15146.67,Moore Inc,Delivered
+TR0663,OR0663,Rail Tanker,1336.48,"Garcia, Arnold and Thomas",Pending
+TR0664,OR0664,Pipeline,5923.89,Barnes and Sons,Delivered
+TR0665,OR0665,Pipeline,13724.36,Cook PLC,Pending
+TR0666,OR0666,Ship,3236.75,"Waller, Mercer and Mills",Pending
+TR0667,OR0667,Pipeline,4404.49,Johnson-Mitchell,Pending
+TR0668,OR0668,Tanker Truck,16105.0,"Ford, Graves and Costa",Delivered
+TR0669,OR0669,Pipeline,17665.88,Day Ltd,In Transit
+TR0670,OR0670,Rail Tanker,9666.65,Knight-Barnett,In Transit
+TR0671,OR0671,Pipeline,6535.52,Thomas PLC,Pending
+TR0672,OR0672,Pipeline,18188.0,Greene PLC,Pending
+TR0673,OR0673,Ship,9321.26,"Gardner, Higgins and Allen",In Transit
+TR0674,OR0674,Pipeline,8162.2,"Smith, Schwartz and Miller",Delivered
+TR0675,OR0675,Ship,13556.22,Smith-Lewis,In Transit
+TR0676,OR0676,Tanker Truck,10090.36,Grant and Sons,Delivered
+TR0677,OR0677,Pipeline,6866.76,"Bishop, Peck and Mckinney",Pending
+TR0678,OR0678,Rail Tanker,11642.57,Davenport-Parrish,Pending
+TR0679,OR0679,Rail Tanker,4392.66,Little PLC,Pending
+TR0680,OR0680,Pipeline,11082.1,"Greene, Smith and Vargas",In Transit
+TR0681,OR0681,Rail Tanker,2407.7,Morgan and Sons,Pending
+TR0682,OR0682,Rail Tanker,7790.94,Sharp Ltd,Delivered
+TR0683,OR0683,Tanker Truck,3813.0,Miles and Sons,Delivered
+TR0684,OR0684,Pipeline,17761.29,Murphy-Davis,Delivered
+TR0685,OR0685,Ship,13634.1,Evans and Sons,Delivered
+TR0686,OR0686,Tanker Truck,3044.49,Thomas LLC,In Transit
+TR0687,OR0687,Tanker Truck,9556.26,Zavala PLC,In Transit
+TR0688,OR0688,Ship,14899.99,Alvarado Inc,Pending
+TR0689,OR0689,Tanker Truck,8362.57,Lewis and Sons,Pending
+TR0690,OR0690,Rail Tanker,3121.14,"Butler, Dalton and Benton",Delivered
+TR0691,OR0691,Pipeline,6364.0,"Andersen, Soto and Newton",Pending
+TR0692,OR0692,Ship,3668.67,Olson LLC,Delivered
+TR0693,OR0693,Pipeline,5870.08,Daniels PLC,Delivered
+TR0694,OR0694,Rail Tanker,18523.6,"Miranda, Evans and Andersen",Pending
+TR0695,OR0695,Tanker Truck,8078.51,Guzman Ltd,Pending
+TR0696,OR0696,Pipeline,6611.47,"Arroyo, Edwards and Turner",In Transit
+TR0697,OR0697,Ship,19082.25,Porter-Anderson,Delivered
+TR0698,OR0698,Pipeline,3363.33,Campbell Inc,Pending
+TR0699,OR0699,Tanker Truck,1258.47,"Harris, Green and Gonzalez",Delivered
+TR0700,OR0700,Ship,19076.96,Thompson-Perez,Delivered
+TR0701,OR0701,Rail Tanker,10221.53,Curry-Crawford,Pending
+TR0702,OR0702,Rail Tanker,3852.62,Saunders-Patrick,In Transit
+TR0703,OR0703,Pipeline,2789.14,Holmes-Mendoza,Pending
+TR0704,OR0704,Tanker Truck,13489.37,Powers-Castro,Pending
+TR0705,OR0705,Rail Tanker,5603.2,Zimmerman Group,Pending
+TR0706,OR0706,Tanker Truck,2215.55,Gross Group,Delivered
+TR0707,OR0707,Ship,15784.25,Herrera-Lawrence,In Transit
+TR0708,OR0708,Rail Tanker,18324.82,Pierce-Castaneda,In Transit
+TR0709,OR0709,Ship,15184.32,Wilson Inc,Pending
+TR0710,OR0710,Pipeline,12820.62,Bailey and Sons,Pending
+TR0711,OR0711,Tanker Truck,16641.62,Roy-Lawrence,In Transit
+TR0712,OR0712,Pipeline,7390.68,Adkins Ltd,Delivered
+TR0713,OR0713,Rail Tanker,7304.52,Gates Inc,Delivered
+TR0714,OR0714,Ship,2067.69,Riley Group,In Transit
+TR0715,OR0715,Tanker Truck,11103.28,Waters-Hill,In Transit
+TR0716,OR0716,Rail Tanker,17847.28,"Flores, Meyers and Garcia",Delivered
+TR0717,OR0717,Tanker Truck,1760.31,Peters Inc,In Transit
+TR0718,OR0718,Ship,2565.05,"Mills, Yang and Walker",In Transit
+TR0719,OR0719,Tanker Truck,2768.28,Knight Ltd,In Transit
+TR0720,OR0720,Ship,7142.74,Watkins-King,In Transit
+TR0721,OR0721,Ship,18755.15,Cook-Watkins,Delivered
+TR0722,OR0722,Ship,2837.48,Young and Sons,Delivered
+TR0723,OR0723,Tanker Truck,19033.13,Moore-Gonzalez,In Transit
+TR0724,OR0724,Rail Tanker,9194.96,"Franco, Brown and Willis",Delivered
+TR0725,OR0725,Tanker Truck,14337.14,Anderson Ltd,Delivered
+TR0726,OR0726,Pipeline,11206.46,Carter-Patel,Delivered
+TR0727,OR0727,Rail Tanker,17136.28,Mcknight-Mcguire,Pending
+TR0728,OR0728,Ship,11378.87,"White, Grant and Bradford",Pending
+TR0729,OR0729,Rail Tanker,19457.84,Jones Inc,In Transit
+TR0730,OR0730,Rail Tanker,5764.21,Anderson-Reyes,In Transit
+TR0731,OR0731,Ship,17692.53,Hines Group,Pending
+TR0732,OR0732,Pipeline,10199.27,Romero Group,In Transit
+TR0733,OR0733,Tanker Truck,4461.41,Odonnell and Sons,In Transit
+TR0734,OR0734,Pipeline,6665.15,Smith-Bartlett,Pending
+TR0735,OR0735,Tanker Truck,6706.57,"Brown, Stewart and Tran",Delivered
+TR0736,OR0736,Pipeline,1507.96,Gutierrez Inc,Delivered
+TR0737,OR0737,Pipeline,14646.39,Turner-Pacheco,Delivered
+TR0738,OR0738,Ship,17666.14,Hall-Sanders,Delivered
+TR0739,OR0739,Pipeline,3731.21,Duran Ltd,Pending
+TR0740,OR0740,Rail Tanker,17913.07,"Walker, Callahan and Ramirez",In Transit
+TR0741,OR0741,Ship,19186.03,Ali PLC,Pending
+TR0742,OR0742,Tanker Truck,11709.75,"Whitney, Hernandez and Alexander",In Transit
+TR0743,OR0743,Tanker Truck,16916.64,"Johnson, Walters and Ford",Pending
+TR0744,OR0744,Tanker Truck,11362.57,"Jones, Burke and Callahan",Pending
+TR0745,OR0745,Tanker Truck,10265.62,"Terry, Gonzalez and Pruitt",Delivered
+TR0746,OR0746,Tanker Truck,6053.01,"Lewis, Paul and Lowe",Pending
+TR0747,OR0747,Rail Tanker,10839.16,Cisneros Inc,Pending
+TR0748,OR0748,Ship,19102.28,Murphy-Lester,In Transit
+TR0749,OR0749,Tanker Truck,7774.24,"Sanchez, Patterson and Robinson",Delivered
+TR0750,OR0750,Ship,3739.22,"Davis, Martinez and Bartlett",Delivered
+TR0751,OR0751,Pipeline,15825.41,Stone-Collins,Delivered
+TR0752,OR0752,Pipeline,15820.07,"Palmer, Ortiz and Kim",Pending
+TR0753,OR0753,Rail Tanker,18132.15,Martin PLC,In Transit
+TR0754,OR0754,Ship,5075.68,Anderson-Alvarez,Pending
+TR0755,OR0755,Ship,3041.13,Brown LLC,Delivered
+TR0756,OR0756,Pipeline,17873.93,Carey-Potter,In Transit
+TR0757,OR0757,Pipeline,6064.15,Hill-Barnett,Pending
+TR0758,OR0758,Tanker Truck,6223.44,Smith PLC,Pending
+TR0759,OR0759,Rail Tanker,11136.87,Brown LLC,In Transit
+TR0760,OR0760,Ship,1490.95,Perry-Johnson,Pending
+TR0761,OR0761,Tanker Truck,19786.55,"Berry, Eaton and Lee",Delivered
+TR0762,OR0762,Tanker Truck,18960.51,Anderson Ltd,Pending
+TR0763,OR0763,Ship,3916.38,Woodard and Sons,Pending
+TR0764,OR0764,Rail Tanker,12556.32,White Ltd,Pending
+TR0765,OR0765,Ship,9506.46,Merritt-Elliott,In Transit
+TR0766,OR0766,Tanker Truck,7037.19,Owens-Woodard,Delivered
+TR0767,OR0767,Pipeline,10776.85,Mitchell LLC,Delivered
+TR0768,OR0768,Rail Tanker,6669.07,"Cobb, King and Willis",Delivered
+TR0769,OR0769,Ship,10189.24,Scott LLC,Delivered
+TR0770,OR0770,Pipeline,2935.2,Alexander Group,Delivered
+TR0771,OR0771,Pipeline,2669.36,Mendoza-George,Pending
+TR0772,OR0772,Ship,1480.87,Watson-Anderson,Delivered
+TR0773,OR0773,Pipeline,13310.77,"Jensen, Robertson and Williams",Pending
+TR0774,OR0774,Tanker Truck,12472.79,Reese and Sons,In Transit
+TR0775,OR0775,Pipeline,10269.24,White-Adams,Delivered
+TR0776,OR0776,Rail Tanker,14615.13,Hess-Dickerson,Pending
+TR0777,OR0777,Rail Tanker,4257.93,"Vaughn, Hess and Bryant",In Transit
+TR0778,OR0778,Rail Tanker,15047.13,Barton-Fuller,Delivered
+TR0779,OR0779,Ship,8005.2,Moore-Chavez,Pending
+TR0780,OR0780,Ship,18323.26,Montgomery-Hughes,Pending
+TR0781,OR0781,Pipeline,4684.66,"Crawford, Parker and Sweeney",Pending
+TR0782,OR0782,Pipeline,7345.7,"Swanson, Grant and Clark",In Transit
+TR0783,OR0783,Tanker Truck,15157.11,Stevens Group,Delivered
+TR0784,OR0784,Ship,18443.43,Russell and Sons,Delivered
+TR0785,OR0785,Ship,8441.48,Gibson-Morales,In Transit
+TR0786,OR0786,Pipeline,7955.53,"Wheeler, Mckinney and Poole",Pending
+TR0787,OR0787,Ship,4823.11,"Holden, Mccann and Anderson",Pending
+TR0788,OR0788,Pipeline,4534.06,"Dalton, Carter and Martin",Pending
+TR0789,OR0789,Tanker Truck,12534.16,"Manning, Murphy and Stephenson",Delivered
+TR0790,OR0790,Ship,2312.96,Reyes-Castro,Delivered
+TR0791,OR0791,Ship,2213.14,Salazar Group,Delivered
+TR0792,OR0792,Tanker Truck,11940.58,Cantrell Inc,Delivered
+TR0793,OR0793,Ship,1141.95,Duncan PLC,Delivered
+TR0794,OR0794,Pipeline,3110.09,Garcia-Armstrong,Pending
+TR0795,OR0795,Pipeline,16294.74,Mclean-Mitchell,Pending
+TR0796,OR0796,Pipeline,4069.9,Robinson-Campbell,Pending
+TR0797,OR0797,Rail Tanker,8457.21,Stokes and Sons,In Transit
+TR0798,OR0798,Rail Tanker,6066.56,"Gregory, Sullivan and Weber",Pending
+TR0799,OR0799,Ship,19136.9,Hunter and Sons,Delivered
+TR0800,OR0800,Ship,14264.37,Gomez-Washington,Delivered
+TR0801,OR0801,Rail Tanker,6210.15,Davidson-Murray,Pending
+TR0802,OR0802,Rail Tanker,11546.62,"Soto, Gray and Leach",Pending
+TR0803,OR0803,Ship,3033.24,Harris-Gross,In Transit
+TR0804,OR0804,Tanker Truck,6949.9,Perez-Rogers,Delivered
+TR0805,OR0805,Rail Tanker,12920.06,Martinez LLC,Pending
+TR0806,OR0806,Pipeline,17953.37,"Miller, Scott and Torres",Pending
+TR0807,OR0807,Pipeline,7050.33,"Reyes, Johnson and Sawyer",Delivered
+TR0808,OR0808,Pipeline,12733.92,"Johnson, Scott and Bridges",In Transit
+TR0809,OR0809,Ship,2004.71,"Smith, Robinson and Buchanan",Pending
+TR0810,OR0810,Pipeline,18498.81,"Allen, Woodward and Huff",Delivered
+TR0811,OR0811,Ship,15354.28,Smith-Wiley,In Transit
+TR0812,OR0812,Ship,2986.71,James-Walsh,Delivered
+TR0813,OR0813,Pipeline,17963.5,Miller-Rodriguez,Pending
+TR0814,OR0814,Pipeline,12395.77,Garcia PLC,Pending
+TR0815,OR0815,Rail Tanker,4721.44,"Franco, Montes and Alvarez",In Transit
+TR0816,OR0816,Pipeline,15312.12,"Ellis, Fritz and Hughes",In Transit
+TR0817,OR0817,Pipeline,9075.58,Jones PLC,Pending
+TR0818,OR0818,Ship,19775.29,Jones LLC,In Transit
+TR0819,OR0819,Pipeline,9712.54,"Lyons, Rodriguez and Ortiz",Delivered
+TR0820,OR0820,Ship,3444.51,Robinson-Wood,Pending
+TR0821,OR0821,Rail Tanker,11736.93,"Ross, Howell and Peterson",In Transit
+TR0822,OR0822,Ship,12268.72,"Wilson, Beasley and Ho",In Transit
+TR0823,OR0823,Pipeline,5438.77,"Ramirez, Howard and Giles",Delivered
+TR0824,OR0824,Rail Tanker,10142.61,Vasquez PLC,In Transit
+TR0825,OR0825,Pipeline,8751.38,Love-Aguilar,In Transit
+TR0826,OR0826,Pipeline,3454.69,"Johnston, Cruz and Gonzales",In Transit
+TR0827,OR0827,Tanker Truck,1272.68,"Harris, Villegas and Ray",Delivered
+TR0828,OR0828,Ship,1670.17,"Short, Reed and Robinson",Delivered
+TR0829,OR0829,Rail Tanker,19264.92,Wilson-Smith,In Transit
+TR0830,OR0830,Pipeline,4516.16,Collins-Schneider,In Transit
+TR0831,OR0831,Tanker Truck,7971.38,"Ramos, Freeman and Mccullough",Pending
+TR0832,OR0832,Rail Tanker,3988.71,King-Guzman,Delivered
+TR0833,OR0833,Tanker Truck,16977.99,Bradshaw-Hansen,Pending
+TR0834,OR0834,Ship,18739.71,"Johnson, Cruz and Williams",In Transit
+TR0835,OR0835,Tanker Truck,2664.14,Ortiz-Barton,In Transit
+TR0836,OR0836,Ship,13293.73,"Washington, Delgado and Walter",In Transit
+TR0837,OR0837,Ship,12178.56,"Rivera, Chang and Foster",Pending
+TR0838,OR0838,Ship,9232.05,Nguyen PLC,In Transit
+TR0839,OR0839,Tanker Truck,12505.47,Delgado-Carr,Delivered
+TR0840,OR0840,Pipeline,14184.48,Padilla-Wood,Delivered
+TR0841,OR0841,Rail Tanker,3366.46,Nielsen Inc,Pending
+TR0842,OR0842,Pipeline,15762.72,Miller-Cooper,In Transit
+TR0843,OR0843,Pipeline,14252.49,"Chavez, Williams and Gray",In Transit
+TR0844,OR0844,Ship,2276.76,Gardner-Lindsey,In Transit
+TR0845,OR0845,Tanker Truck,17722.53,Davis and Sons,In Transit
+TR0846,OR0846,Pipeline,1330.57,"Reeves, Owens and Mckee",In Transit
+TR0847,OR0847,Ship,6460.22,Andersen PLC,Pending
+TR0848,OR0848,Tanker Truck,19758.77,Wheeler Inc,In Transit
+TR0849,OR0849,Tanker Truck,5889.28,"Odonnell, Wright and Young",Delivered
+TR0850,OR0850,Pipeline,19177.21,Mitchell-Fernandez,Delivered
+TR0851,OR0851,Ship,19942.89,"Williams, Booker and Kline",In Transit
+TR0852,OR0852,Tanker Truck,4501.16,Lowe-Kelly,In Transit
+TR0853,OR0853,Rail Tanker,1762.32,Lopez PLC,Delivered
+TR0854,OR0854,Tanker Truck,2185.48,Brown PLC,Pending
+TR0855,OR0855,Pipeline,14889.35,"Powers, Green and Maldonado",Delivered
+TR0856,OR0856,Rail Tanker,3599.56,Thompson and Sons,In Transit
+TR0857,OR0857,Ship,6966.3,Romero-Grant,Pending
+TR0858,OR0858,Rail Tanker,13947.87,"Ellis, Haley and Williams",In Transit
+TR0859,OR0859,Ship,3527.06,Price Ltd,In Transit
+TR0860,OR0860,Pipeline,2832.27,"Dyer, Ball and Hood",Delivered
+TR0861,OR0861,Pipeline,6590.98,Thompson-Parker,Delivered
+TR0862,OR0862,Tanker Truck,9588.3,Hurst and Sons,In Transit
+TR0863,OR0863,Rail Tanker,7332.18,Morgan LLC,Pending
+TR0864,OR0864,Tanker Truck,13109.46,Jacobs-Carter,Pending
+TR0865,OR0865,Tanker Truck,6770.26,Boyd PLC,Delivered
+TR0866,OR0866,Tanker Truck,19986.58,Robertson-Acosta,Delivered
+TR0867,OR0867,Ship,1224.86,Fisher LLC,Pending
+TR0868,OR0868,Tanker Truck,14792.89,"Olson, Wells and Price",Delivered
+TR0869,OR0869,Ship,1835.61,"Morris, Lyons and Adams",Pending
+TR0870,OR0870,Rail Tanker,8700.05,Brown-Hayes,Delivered
+TR0871,OR0871,Tanker Truck,11259.72,Holmes-Stewart,In Transit
+TR0872,OR0872,Ship,1690.28,Calderon-Wallace,Delivered
+TR0873,OR0873,Rail Tanker,4311.14,"Meyer, Hill and Hernandez",Pending
+TR0874,OR0874,Rail Tanker,8370.29,"Lawson, Francis and Hobbs",Delivered
+TR0875,OR0875,Pipeline,11464.69,Butler Ltd,Pending
+TR0876,OR0876,Rail Tanker,15410.01,Kelly-Mcmahon,Pending
+TR0877,OR0877,Tanker Truck,18495.8,Mccarthy Group,Delivered
+TR0878,OR0878,Rail Tanker,1536.83,Wilson-Perry,In Transit
+TR0879,OR0879,Pipeline,11464.48,Moyer Inc,Pending
+TR0880,OR0880,Tanker Truck,7153.36,Manning-Lopez,Pending
+TR0881,OR0881,Rail Tanker,16635.66,Knight-Brown,In Transit
+TR0882,OR0882,Rail Tanker,15540.12,Wilson PLC,Delivered
+TR0883,OR0883,Ship,2370.27,"Perez, Robles and Harris",Pending
+TR0884,OR0884,Pipeline,16395.59,"Henderson, Ortiz and Barton",In Transit
+TR0885,OR0885,Tanker Truck,13319.4,Williams Inc,In Transit
+TR0886,OR0886,Tanker Truck,7957.86,"Bryant, Marshall and Clark",In Transit
+TR0887,OR0887,Pipeline,17114.2,Sanchez PLC,Delivered
+TR0888,OR0888,Pipeline,4530.08,Morris-Green,Pending
+TR0889,OR0889,Ship,7922.29,Guerrero Inc,In Transit
+TR0890,OR0890,Ship,8412.61,Jones PLC,Delivered
+TR0891,OR0891,Tanker Truck,1987.42,Smith-Fields,In Transit
+TR0892,OR0892,Tanker Truck,9095.37,Cohen-Miller,Delivered
+TR0893,OR0893,Ship,7119.79,Vega and Sons,Pending
+TR0894,OR0894,Rail Tanker,4289.58,Johnson Group,In Transit
+TR0895,OR0895,Rail Tanker,9985.98,Porter LLC,Pending
+TR0896,OR0896,Tanker Truck,17050.31,Thompson-Lewis,Delivered
+TR0897,OR0897,Rail Tanker,18165.76,"Higgins, Adkins and Cooper",Delivered
+TR0898,OR0898,Pipeline,2208.44,Alvarez-Gilbert,Delivered
+TR0899,OR0899,Rail Tanker,19202.81,Jones LLC,Pending
+TR0900,OR0900,Ship,7776.35,Johnson Inc,Delivered
+TR0901,OR0901,Ship,16823.69,"Hatfield, Hicks and Gomez",In Transit
+TR0902,OR0902,Rail Tanker,8517.17,Guzman-Mcintyre,Pending
+TR0903,OR0903,Tanker Truck,12694.08,Webster-Garcia,Delivered
+TR0904,OR0904,Rail Tanker,2091.38,Morton-Cabrera,In Transit
+TR0905,OR0905,Tanker Truck,11454.68,Baker-Sawyer,In Transit
+TR0906,OR0906,Rail Tanker,9714.23,"Wood, Charles and Nelson",Pending
+TR0907,OR0907,Pipeline,4684.87,Schroeder-Pierce,Delivered
+TR0908,OR0908,Rail Tanker,5043.37,Contreras-Jones,In Transit
+TR0909,OR0909,Pipeline,3819.83,Santana and Sons,In Transit
+TR0910,OR0910,Tanker Truck,15924.58,"Richards, French and Fisher",In Transit
+TR0911,OR0911,Tanker Truck,15328.32,Andrews and Sons,Pending
+TR0912,OR0912,Pipeline,9727.3,Williams-Waller,Pending
+TR0913,OR0913,Ship,1023.26,Foster Ltd,Delivered
+TR0914,OR0914,Tanker Truck,6604.14,Hall-Evans,Pending
+TR0915,OR0915,Rail Tanker,15113.7,Brown-Roy,In Transit
+TR0916,OR0916,Pipeline,2048.73,Flores-Alexander,Delivered
+TR0917,OR0917,Rail Tanker,18904.92,"Wilson, Diaz and Bolton",Pending
+TR0918,OR0918,Pipeline,14811.52,Jackson and Sons,Delivered
+TR0919,OR0919,Rail Tanker,6279.66,"Warren, Dean and Henderson",Pending
+TR0920,OR0920,Tanker Truck,4147.81,Williamson Inc,Delivered
+TR0921,OR0921,Tanker Truck,14672.7,Hall Group,In Transit
+TR0922,OR0922,Pipeline,19639.73,"Ward, James and Vargas",Pending
+TR0923,OR0923,Ship,1469.39,Robles-Wolfe,Delivered
+TR0924,OR0924,Pipeline,12697.48,Lambert-Clark,Delivered
+TR0925,OR0925,Pipeline,19630.46,Obrien and Sons,Pending
+TR0926,OR0926,Rail Tanker,11749.24,Lee PLC,In Transit
+TR0927,OR0927,Rail Tanker,13195.5,Hughes and Sons,Pending
+TR0928,OR0928,Ship,10029.64,Diaz-Mccoy,Delivered
+TR0929,OR0929,Tanker Truck,14774.81,Mcgee Group,In Transit
+TR0930,OR0930,Rail Tanker,8499.63,"Bennett, Reese and Brown",In Transit
+TR0931,OR0931,Pipeline,5303.07,Proctor-Kent,Pending
+TR0932,OR0932,Pipeline,7183.8,Gonzalez-Ingram,Delivered
+TR0933,OR0933,Tanker Truck,1094.83,"Sanders, Harris and Williams",Delivered
+TR0934,OR0934,Ship,10927.0,Campbell Ltd,In Transit
+TR0935,OR0935,Ship,6336.67,"Gonzalez, Cooper and Wright",In Transit
+TR0936,OR0936,Tanker Truck,5315.94,Wheeler Inc,In Transit
+TR0937,OR0937,Ship,18945.86,"Wells, Lang and Hale",In Transit
+TR0938,OR0938,Tanker Truck,4580.69,"Martinez, Colon and Moyer",Pending
+TR0939,OR0939,Rail Tanker,9050.73,"Stewart, Sanchez and Miller",Pending
+TR0940,OR0940,Rail Tanker,2306.29,Meadows PLC,In Transit
+TR0941,OR0941,Rail Tanker,2637.65,Hernandez PLC,In Transit
+TR0942,OR0942,Tanker Truck,19750.81,Howard and Sons,Pending
+TR0943,OR0943,Tanker Truck,8626.57,"Johnston, Lucas and Singleton",In Transit
+TR0944,OR0944,Rail Tanker,5346.48,"Davis, Neal and Bennett",In Transit
+TR0945,OR0945,Tanker Truck,7445.92,Mckee PLC,Pending
+TR0946,OR0946,Ship,9215.98,"Stephens, Robinson and Walker",Pending
+TR0947,OR0947,Tanker Truck,1104.06,Hardy-Robinson,Delivered
+TR0948,OR0948,Pipeline,4944.28,"Shepherd, Roy and Owen",Pending
+TR0949,OR0949,Rail Tanker,18829.2,James-Tyler,Delivered
+TR0950,OR0950,Ship,18028.59,Gallegos-Reid,In Transit
+TR0951,OR0951,Ship,10715.3,Garcia-Nicholson,Delivered
+TR0952,OR0952,Tanker Truck,11518.16,"Galvan, Harvey and Rhodes",In Transit
+TR0953,OR0953,Tanker Truck,17977.01,Nunez Group,Delivered
+TR0954,OR0954,Rail Tanker,4877.58,Francis-Johnson,Pending
+TR0955,OR0955,Rail Tanker,1048.92,"Saunders, Garner and Lopez",Delivered
+TR0956,OR0956,Tanker Truck,16227.25,"Green, Ross and Green",Pending
+TR0957,OR0957,Pipeline,17928.74,"Harris, Shaw and Benjamin",Delivered
+TR0958,OR0958,Rail Tanker,5774.01,"Rodriguez, Baker and Fields",Delivered
+TR0959,OR0959,Rail Tanker,6560.03,Rodriguez-Wagner,In Transit
+TR0960,OR0960,Rail Tanker,4705.31,Lewis-Wallace,Delivered
+TR0961,OR0961,Ship,7651.14,"Curtis, Johnson and Rogers",Delivered
+TR0962,OR0962,Tanker Truck,15728.72,Underwood-Edwards,Pending
+TR0963,OR0963,Pipeline,1873.62,Hayes Group,In Transit
+TR0964,OR0964,Rail Tanker,4106.12,Spears-Barnett,In Transit
+TR0965,OR0965,Pipeline,5294.97,Cervantes-Wilson,Pending
+TR0966,OR0966,Pipeline,6177.96,Lyons Ltd,Delivered
+TR0967,OR0967,Ship,6697.23,"Simmons, Mendoza and Cooper",Delivered
+TR0968,OR0968,Rail Tanker,16789.99,"Chen, Davis and Deleon",In Transit
+TR0969,OR0969,Pipeline,15016.44,"Anderson, Murphy and Wilson",Pending
+TR0970,OR0970,Rail Tanker,10691.22,Hill PLC,Delivered
+TR0971,OR0971,Rail Tanker,14389.52,Lara-Roach,Delivered
+TR0972,OR0972,Tanker Truck,7267.45,Conner-Swanson,In Transit
+TR0973,OR0973,Rail Tanker,17587.72,"Rodgers, Ortiz and Rodriguez",In Transit
+TR0974,OR0974,Rail Tanker,13027.61,"Lee, Hart and Bass",In Transit
+TR0975,OR0975,Ship,12132.21,"Wood, Salinas and Perez",In Transit
+TR0976,OR0976,Ship,6902.32,Pope Inc,In Transit
+TR0977,OR0977,Rail Tanker,15655.11,Boone Inc,In Transit
+TR0978,OR0978,Pipeline,7405.96,Torres Group,Delivered
+TR0979,OR0979,Tanker Truck,7885.69,Blevins PLC,Pending
+TR0980,OR0980,Pipeline,17976.79,Black-Schmidt,In Transit
+TR0981,OR0981,Pipeline,8776.28,Ritter-Roberts,Pending
+TR0982,OR0982,Ship,4750.58,Burke PLC,Delivered
+TR0983,OR0983,Pipeline,16328.87,"Sullivan, Gilbert and Hicks",Pending
+TR0984,OR0984,Rail Tanker,18942.51,Wilkinson LLC,Pending
+TR0985,OR0985,Tanker Truck,9781.09,Roberts PLC,Pending
+TR0986,OR0986,Pipeline,4557.63,"Miller, Wilson and Moore",In Transit
+TR0987,OR0987,Ship,4158.65,Taylor Ltd,Pending
+TR0988,OR0988,Tanker Truck,7118.61,Martin PLC,In Transit
+TR0989,OR0989,Pipeline,8311.17,Carrillo-Ramos,In Transit
+TR0990,OR0990,Pipeline,16943.16,Stewart-Walters,Pending
+TR0991,OR0991,Rail Tanker,19380.27,Taylor-Schneider,Delivered
+TR0992,OR0992,Pipeline,4669.09,Morris and Sons,Delivered
+TR0993,OR0993,Pipeline,5247.94,Brown LLC,Delivered
+TR0994,OR0994,Rail Tanker,2681.17,Blake-Gonzalez,In Transit
+TR0995,OR0995,Tanker Truck,17113.99,Richard-Campbell,Pending
+TR0996,OR0996,Tanker Truck,10378.36,Villa PLC,Pending
+TR0997,OR0997,Pipeline,17063.96,"Jensen, Price and Cowan",In Transit
+TR0998,OR0998,Pipeline,2346.54,"Garza, Bentley and Martinez",In Transit
+TR0999,OR0999,Ship,1463.35,"Perry, Graham and Green",Delivered
+TR1000,OR1000,Rail Tanker,1706.5,"Bates, Brown and Garcia",Delivered
